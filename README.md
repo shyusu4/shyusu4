@@ -1,6 +1,6 @@
 ## Hi, I'm Shakhrizoda!
 - :dizzy: I’m an aspiring web developer who likes to experiment with code.
-- :herb: I’m currently learning **HTML, CSS, SCSS, Javascript, React & Redux, Ruby, and Ruby on Rails.**
+- :herb: Tech Stack: **HTML, CSS, SCSS, Javascript, React/Redux, Ruby, and Ruby on Rails.**
 
 <a href="https://github.com/shyusu4">
 <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=shyusu4&theme=dracula&show_icons=true" />
