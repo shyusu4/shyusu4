@@ -1,5 +1,6 @@
 # Hi, I'm Shakhrizoda!
-I’m a **_full-stack developer_** who likes to experiment with code.
+
+**_Full-Stack Software Developer_**, React enthusiast, and practicing minimalist. I create art pieces in my spare time. Looking for my next job!
 
 Tech Stack: **Pure HTML&CSS | ReactJS | Redux | Javascript (ES6) | NodeJS | Ruby on Rails**
 
