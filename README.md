@@ -1,15 +1,21 @@
-# Hi, I'm Shakhrizoda!
+## Hi there, I'm Sherry!
+As a _Front End Software Developer_, React enthusiast, and practicing minimalist, I'm passionate about crafting beautiful and efficient digital solutions. When I'm not coding, I channel my creativity into creating art pieces. I'm open to new opportunities and would love to explore potential collaborations or projects.
+<br></br>
 
-**_Full-Stack Software Developer_**, React enthusiast, and practicing minimalist. I create art pieces in my spare time. Looking for my next job!
+__My technical expertise spans a range of technologies, including:__
 
-Tech Stack: **Pure HTML&CSS | ReactJS | Redux | Javascript (ES6) | NodeJS | Ruby on Rails**
+Pure HTML&CSS | ReactJS | Redux | Javascript (ES6) | NodeJS | Ruby on Rails
+<br></br>
+
+__Check out my GitHub stats below:__
 
 <a href="https://github.com/shyusu4">
 <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=shyusu4&theme=dracula&show_icons=true" />
-<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyusu4&theme=dracula&layout=compact" />
 </a>
+<br></br>
 
-### Connect :incoming_envelope:
+__I'm always happy to connect with fellow developers and tech enthusiasts. You can reach me on the following platforms:__
+
 <p>
 <a href="https://www.linkedin.com/in/shyusu4" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 <a href="https://github.com/shyusu4" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
