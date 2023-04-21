@@ -10,7 +10,7 @@ Pure HTML&CSS | ReactJS | Redux | Javascript (ES6) | NodeJS | Ruby on Rails
 __Check out my GitHub stats below:__
 
 <a href="https://github.com/shyusu4">
-<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=shyusu4&theme=dracula&show_icons=true" />
+<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=shyusu4&theme=apprentice&show_icons=true" />
 </a>
 <br></br>
 
