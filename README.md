@@ -4,7 +4,7 @@ As a _Front End Software Developer_, React enthusiast, and practicing minimalist
 
 __My technical expertise spans a range of technologies, including:__
 
-Pure HTML&CSS | ReactJS | Redux | Javascript (ES6) | NextJS | Ruby on Rails
+Pure HTML&CSS | Javascript (ES6) | ReactJS | Redux | NextJS | Ruby on Rails | Styled-Components | TailwindCSS
 <br></br>
 
 __Check out my GitHub stats below:__
