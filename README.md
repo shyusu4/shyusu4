@@ -7,13 +7,6 @@ __My technical expertise spans a range of technologies, including:__
 Pure HTML&CSS | Javascript (ES6) | ReactJS | Redux | NextJS | Ruby on Rails | Styled-Components | TailwindCSS
 <br></br>
 
-__Check out my GitHub stats below:__
-
-<a href="https://github.com/shyusu4">
-<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=shyusu4&theme=apprentice&show_icons=true" />
-</a>
-<br></br>
-
 __I'm always happy to connect with fellow developers and tech enthusiasts. You can reach me on the following platforms:__
 
 <p>
