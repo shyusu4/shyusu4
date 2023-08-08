@@ -1,13 +1,14 @@
-## Hi there, I'm Sherry!
-As a _Front End Software Developer_, React enthusiast, and practicing minimalist, I'm passionate about crafting beautiful and efficient digital solutions. When I'm not coding, I channel my creativity into creating art pieces. I'm open to new opportunities and would love to explore potential collaborations or projects.
-<br></br>
+## Hi! I'm Sherry
+As a dedicated Front End Software Developer, I'm driven by my unyielding passion for creating beautiful and efficient digital solutions. My journey in the tech world is guided by my commitment to minimalism and an innate artistic flair, which transcends into my coding philosophy.
 
-__My technical expertise spans a range of technologies, including:__
+__🚀 Proficient in an array of technologies, I specialize in:__
 
 Pure HTML&CSS | Javascript (ES6) | ReactJS | Redux | NextJS | Ruby on Rails | Styled-Components | TailwindCSS
+
+🎨 Beyond code, I channel my creativity into the realm of artistry. Crafting both digital solutions and artistic pieces, I embody a holistic approach that fuses logic with imagination. This distinctive perspective allows me to see problems from various angles and deliver unique solutions.
 <br></br>
 
-__I'm always happy to connect with fellow developers and tech enthusiasts. You can reach me on the following platforms:__
+__Let's embark on a journey to innovate, create, and redefine digital experiences together.__
 
 <p>
 <a href="https://www.linkedin.com/in/shyusu4" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
