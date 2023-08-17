@@ -1,11 +1,11 @@
 ## Hi! I'm Sherry
-As a dedicated Front End Software Developer, I'm driven by my unyielding passion for creating beautiful and efficient digital solutions. My journey in the tech world is guided by my commitment to minimalism and an innate artistic flair, which transcends into my coding philosophy.
+As a dedicated Frontend Software Developer, I'm driven by my passion for creating attractive and efficient digital solutions. My journey in the tech world is guided by my commitment to minimalism, which translates into my coding philosophy.
 
-__🚀 Proficient in an array of technologies, I specialize in:__
+__🚀 I specialize in:__
 
-Pure HTML&CSS | Javascript (ES6) | ReactJS | Redux | NextJS | Ruby on Rails | Styled-Components | TailwindCSS
+HTML & CSS | Javascript (ES6) | ReactJS | Redux | NextJS | Ruby on Rails | Styled-Components | TailwindCSS
 
-🎨 Beyond code, I channel my creativity into the realm of artistry. Crafting both digital solutions and artistic pieces, I embody a holistic approach that fuses logic with imagination. This distinctive perspective allows me to see problems from various angles and deliver unique solutions.
+🎨 Beyond code, I channel my creativity into the realm of artistry. I usually take on a holistic approach that combines logic with imagination, and this perspective allows me to see problems from different angles.
 <br></br>
 
 __Let's embark on a journey to innovate, create, and redefine digital experiences together.__
